@@ -2,8 +2,8 @@ The Truly Free License (sm)
 ======================
 Version 0.1 (provisional)
 
-Copyright © [date] by [who] 
-[website]
+Copyright © [date] by [who]   
+[website]   
 All rights reserved.
 
 Free software should be truly free. The GPL and its derivatives infringe
@@ -64,5 +64,5 @@ https://github.com/NirvanaPlatform/TFL
 Yes, I know this is a bit overwrought, but the integrity of the license is protected by
 not having a million derivatives running around, sowing confusion wherever they go. 
 
-The Nirvana Organization   http://nirvana.io
+_The Nirvana Organization • http://nirvana.io_
 
