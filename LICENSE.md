@@ -49,7 +49,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ------------
 
-The Truly Free License is copyright 2013, by The Nirvana Organization
+The Truly Free License is Copyright ©2013, by The Nirvana Organization
 "The Truly Free License" and "The TFL" are service marks of The Nirvana Organization.
 
 Permission is granted to use this license with the following provisions:
