@@ -1,8 +1,8 @@
 The Truly Free License (sm)
 ======================
-Version 0.1 (provisional)
+Version 0.1.1 (provisional)
 
-Copyright © [date] by [who]   
+This Software is Copyright © [date] by [who]   
 [website]   
 All rights reserved.
 
@@ -54,9 +54,9 @@ The Truly Free License is Copyright ©2013, by The Nirvana Organization
 
 Permission is granted to use this license with the following provisions:   
 1. The TFL is licensed under the Truly Free License.   
-2. Other than updating the date and creator in the copyright notice, you must
-use the license verbatim, including these provisions protecting the license itself.    
-3. If you wish to make a derivative, you must use a different name.
+2. Other than updating the creator, date, and website in the copyright notice, you 
+must use the license verbatim, including these provisions protecting the license itself.    
+3. If you wish to make a derivative, you must use a distinctly different name.
 
 Minor changes or corrections should be submitted as pull requests or issues here: 
 https://github.com/NirvanaPlatform/TFL
